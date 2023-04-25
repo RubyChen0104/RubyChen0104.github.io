@@ -64,9 +64,9 @@ button {
     height: auto;
     object-position: center;
 }
-sms-login {
+.sms-login {
     position: absolute;
-    top: 10px;
-    left: 80px;
-    font-size: 13px;
+    top: 253px;
+    right: 40px; /* 修改右側距離 */
 }
+
