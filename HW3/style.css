@@ -14,11 +14,11 @@ main img {
 
 }
 form {
-    border-radius: 10px;
+    border-radius: 5px;
     background-color: #fff;
     padding: 30px;
-    width: 430px;
-    height: 550px;
+    width: 300px;
+    height: 350px;
     margin: 10px;
     border: 1px solid #fff;
 }
@@ -29,11 +29,11 @@ label {
 }
 
 input {
-    font-size: 20px;
+    font-size: 15px;
     padding:3px;
-    width: 400px;
-    height: 60px;
-    margin:20px;
+    width: 270px;
+    height: 30px;
+    margin:10px;
     border: 1px solid rgba(0, 0, 0, 0.2); /* 將邊框改為透明灰色 */
 }
 input::placeholder {
@@ -44,23 +44,23 @@ button {
     color: white;
     padding:10px;
     margin:10px;
-    width:400px;
-    height:60px;
-    font-size: 20px;
+    width:270px;
+    height:50px;
+    font-size: 15px;
     border-color: white;
     border-radius: 5px;
 }
 #enter{
-    font-size: 30px;
+    font-size: 20px;
 }
 .form-group a {
     text-decoration: none; /* 取消下劃線 */
     color: #0055a9; /* 修改文字顏色 */
-    font-size: 18px;
+    font-size: 13px;
 }
 .form-container img {
     margin:15px;
-    width: 400px;
+    width: 270px;
     height: auto;
     object-position: center;
 }
@@ -68,5 +68,5 @@ sms-login {
     position: absolute;
     top: 10px;
     left: 80px;
-    font-size: 18px;
+    font-size: 13px;
 }
